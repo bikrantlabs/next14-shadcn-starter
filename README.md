@@ -7,19 +7,19 @@ Next.js 14+ starter template with app router, shadcn/ui, typesafe env, icons and
 1. Setup a project using the template
 
 ```bash
-pnpm create next-app -e https://github.com/redpangilinan/next-entree
+pnpm create next-app -e https://github.com/BikrantJung/next14-shadcn-starter
 ```
 
 ```bash
-npx create-next-app -e https://github.com/redpangilinan/next-entree
+npx create-next-app -e https://github.com/BikrantJung/next14-shadcn-starter
 ```
 
 ```bash
-yarn create next-app -e https://github.com/redpangilinan/next-entree
+yarn create next-app -e https://github.com/BikrantJung/next14-shadcn-starter
 ```
 
 ```bash
-bunx create-next-app -e https://github.com/redpangilinan/next-entree
+bunx create-next-app -e https://github.com/BikrantJung/next14-shadcn-starter
 ```
 
 2. Copy `.env.example` to `.env.local`
@@ -40,6 +40,7 @@ This template uses [shadcn](https://github.com/shadcn)'s Next.js app structure f
 - SEO optimized
 - Typesafe env, icons, and config
 - Ready to use - jump right into development
+- Eslint typescript plugin
 
 ## Scripts
 
