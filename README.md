@@ -1,4 +1,4 @@
-# Next Entree
+# Next 14+ Starter Pack
 
 Next.js 14+ starter template with app router, shadcn/ui, typesafe env, icons and configs setup.
 
